@@ -1,17 +1,20 @@
-<?xml version="1.0" enconding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    versionCode = "10"
+    version     = "1.0.0" >
 
-<!--config.xml reference:https://build.phonegap.com/docs/config-xml-->
-<widget xmlns = "http://www.w3.org/ns/widgets"
-        xmlns:gap = "http:// phonegap.com/ns/1.0"
-        id = "com.phonegap.appMarx"
-        version = "1.0.0">
-    <name>APP grupo 4 </name>
-    <description>
-    Hello grupo 4 Aplication 2017.
-    </description>
- <author href="https://github.com/MARX5000/proyectosMarx"email="email="marxitorfa@gmail.com">
- Marx Team
- </author>
- <content src="index.html"/>
- <!-- <access origin="*" /> -->
- </widget>
+<!-- versionCode is optional and Android only -->
+
+  <name>grupo3</name>
+
+  <description>
+      An example for phonegap build docs.
+  </description>
+
+  <author href="https://github.com/espil1234/grupo3.git" email="smithelfavorito@hotmail.com">
+      Hardeep Shoker
+  </author>
+
+</widget>
